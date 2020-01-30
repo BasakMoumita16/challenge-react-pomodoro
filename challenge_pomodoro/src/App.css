@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+body{
+  margin: auto;
+  padding: 10px 20px 50px 10px;
+}
+
+.Stopwatch{
+  margin: auto;
+  padding: 50px 50px 100px 58px;
+  padding-top: 300px;
+}
